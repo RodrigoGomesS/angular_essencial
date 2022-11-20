@@ -1,0 +1,19 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "name" : "Caderno 50 folhas",
+            "price": 30.50
+        },
+        {
+            "id" : 2,
+            "name" : "Estojo Pequeno",
+            "price": 10.65
+        },
+        {
+            "id" : 3,
+            "name" : "Cola escolar Grande",
+            "price": 11.99
+        }
+    ]
+}
